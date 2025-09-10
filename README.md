@@ -1,4 +1,4 @@
-#Worker Billing Calculator
+# Worker Billing Calculator
 
 ## 📌 Description
 This is a simple Python application designed to help construction workers or clients quickly calculate the total area and cost of a job.  
